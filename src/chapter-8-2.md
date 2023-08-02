@@ -1,4 +1,4 @@
-Chapter: Evaluating the Impact of Learning
+Evaluating the Impact of Learning
 ==========================================
 
 Assessing and evaluating the impact of learning is essential to gauge the effectiveness of different techniques and strategies. By employing various evaluation methods, we can gain insights into the progress and outcomes of our learning efforts. In this chapter, we will explore the significance of evaluating the impact of learning and discuss different approaches to assess learning effectiveness.

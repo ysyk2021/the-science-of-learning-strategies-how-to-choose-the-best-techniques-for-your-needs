@@ -1,4 +1,4 @@
-Chapter: Principles of Effective Learning
+Principles of Effective Learning
 =========================================
 
 Effective learning is the key to acquiring knowledge and skills efficiently and retaining them for the long term. By understanding and applying the principles of effective learning, we can optimize our learning strategies and enhance our learning outcomes. In this chapter, we will explore the fundamental principles that underpin effective learning and how they can be applied to improve our learning experiences.

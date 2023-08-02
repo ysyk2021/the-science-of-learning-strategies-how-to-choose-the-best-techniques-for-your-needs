@@ -1,4 +1,4 @@
-Chapter: Defining Your Learning Objectives
+Defining Your Learning Objectives
 ==========================================
 
 In this chapter, we will explore the importance of defining clear learning objectives and how they contribute to effective learning. Setting specific, measurable, achievable, relevant, and time-bound (SMART) learning objectives allows learners to focus their efforts, track their progress, and optimize their learning strategies. By defining their learning objectives, learners can align their activities and resources with their desired outcomes, leading to more successful learning experiences.

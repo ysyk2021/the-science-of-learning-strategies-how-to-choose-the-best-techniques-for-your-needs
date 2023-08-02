@@ -1,4 +1,4 @@
-Chapter: What Are Learning Strategies?
+What Are Learning Strategies?
 ======================================
 
 In this chapter, we will delve into the concept of learning strategies and explore how they can help you optimize your learning experiences. By understanding what learning strategies are and how they work, you can choose the most effective techniques to enhance your learning process.
