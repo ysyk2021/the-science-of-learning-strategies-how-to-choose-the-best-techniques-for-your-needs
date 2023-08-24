@@ -1,5 +1,3 @@
-Chapter 7: Measuring Learning Progress
-======================================
 
 Measuring learning progress is a crucial part of effective learning strategies. In this chapter, we will explore strategies for establishing metrics for success, evaluating the impact of learning, and adjusting the learning plan as needed.
 

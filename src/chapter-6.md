@@ -1,5 +1,3 @@
-Chapter 5: Active Learning Strategies
-=====================================
 
 Active learning strategies involve engaging learners in the learning process through activities that require them to process and apply information actively. Active learning can enhance retention, understanding, and application of knowledge and skills.
 

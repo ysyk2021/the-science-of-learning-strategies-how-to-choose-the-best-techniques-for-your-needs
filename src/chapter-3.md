@@ -1,5 +1,3 @@
-Chapter 2: Applying Cognitive Science to Learning
-=================================================
 
 Learning is a complex process that involves many cognitive processes. In this chapter, we will discuss how cognitive science can inform our understanding of learning and help us develop effective learning strategies.
 

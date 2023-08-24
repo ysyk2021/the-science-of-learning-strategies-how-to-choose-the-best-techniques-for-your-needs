@@ -1,5 +1,3 @@
-Types of Learning Strategies
-=====================================
 
 In this chapter, we will explore the different types of learning strategies that individuals can employ to improve their learning experiences. Understanding these various strategies will help learners choose the most effective techniques based on their needs and preferences. Let's delve into the different types of learning strategies:
 

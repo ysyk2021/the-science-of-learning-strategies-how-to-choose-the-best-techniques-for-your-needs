@@ -1,5 +1,3 @@
-Chapter 3: Identifying Your Learning Goals
-==========================================
 
 Identifying your learning goals is a crucial step in developing effective learning strategies. In this chapter, we will explore strategies for defining learning objectives, identifying personal learning styles, and creating a learning plan.
 

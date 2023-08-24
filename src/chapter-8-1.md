@@ -1,5 +1,3 @@
-Establishing Metrics for Success
-=========================================
 
 Establishing clear metrics for success is crucial to effectively evaluate the impact of learning strategies. This chapter delves into the significance of defining measurable goals and objectives, and provides guidance on how to establish meaningful metrics for assessing learning outcomes.
 

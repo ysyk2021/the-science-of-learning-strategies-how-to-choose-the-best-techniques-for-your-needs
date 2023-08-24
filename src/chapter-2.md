@@ -1,5 +1,3 @@
-Chapter 1: Understanding Learning Strategies
-============================================
 
 Learning strategies are techniques and approaches that individuals use to acquire knowledge and skills. In this chapter, we will discuss what learning strategies are, the different types of learning strategies, and the benefits of using effective learning strategies.
 
