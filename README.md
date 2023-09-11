@@ -1,3 +1,6 @@
+# The Science of Learning Strategies: How to Choose the Best Techniques for Your Needs
+
+Book Link: [https://zhengpublishing.com/the-science-of-learning-strategies-how-to-choose-the-best-techniques-for-your-needs/](https://zhengpublishing.com/the-science-of-learning-strategies-how-to-choose-the-best-techniques-for-your-needs/)
 
 "The Science of Learning Strategies: How to Choose the Best Techniques for Your Needs" is a comprehensive guide to understanding how we acquire knowledge and skills, as well as the most effective learning techniques for different types of learners.
 
